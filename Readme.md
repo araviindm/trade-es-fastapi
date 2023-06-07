@@ -1,6 +1,18 @@
 ## Trade-ES-FastAPI store
 
-I created a dummy data from a online JSON generator
+## To install dependencies
+
+python -m venv venv  
+.\venv\Scripts\activate  
+pip install -r requirements.txt
+
+## To run
+
+uvicorn main:app --reload
+
+## API Description
+
+
 - DB setup (create_trades_index)
     - I created a dummy data from a online JSON generator
     - Used es_odm to change Models into es mappings 
@@ -16,13 +28,3 @@ I created a dummy data from a online JSON generator
 - Search Trade (search_trades)
     - I used the query_string query to query multiple fields with a wildcard
     - I also had another approach to use multi_match with phrase_prefix
-
-## To install dependencies
-
-python -m venv venv  
-.\venv\Scripts\activate  
-pip install -r requirements.txt
-
-## To run
-
-uvicorn main:app --reload
