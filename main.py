@@ -41,7 +41,6 @@ def get_trade_by_id(id: str):
 
 @routes.get("/trades/search")
 def search_trades(search: str):
-    print(search)
     response = search_db_trades(search)
     if response:
         return response

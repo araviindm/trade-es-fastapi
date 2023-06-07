@@ -68,7 +68,10 @@ def search_db_trades(search: str):
     """To fetch a single trade by trade_id or by the default elastic _id(which is commented)"""
     try:
         resp = es.search(index="trades", body={
-            "query": {"multi_match": {"query": search, "fields": ["counterparty", "instrument_id", "instrument_name", "trader"]}}})
+            "query": {"query_string": {
+                "query": "*"+search+"*",
+                "fields": ["counterparty", "instrument_id", "instrument_name", "trader"]
+            }}})
     except Exception as e:
         raise HTTPException(e.args[0],
                             detail=e.args[1])
