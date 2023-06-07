@@ -1,5 +1,22 @@
 ## Trade-ES-FastAPI store
 
+I created a dummy data from a online JSON generator
+- DB setup (create_trades_index)
+    - I created a dummy data from a online JSON generator
+    - Used es_odm to change Models into es mappings 
+    - Dumped the data from the JSON file to es index
+ 
+- Get Trades (get_trades)
+    - Wrote queries for all parameters seperately and kept them as optional
+  
+- Single Trade (get_trade_by_id)
+  - I Queried for an exact match of the trade_id field
+  - I also had another approach which will use the elasticsearch's get to fetch by elasticsearch default _id
+
+- Search Trade (search_trades)
+    - I used the query_string query to query multiple fields with a wildcard
+    - I also had another approach to use multi_match with phrase_prefix
+
 ## To install dependencies
 
 python -m venv venv  
@@ -9,32 +26,3 @@ pip install -r requirements.txt
 ## To run
 
 uvicorn main:app --reload
-
-<!-- {
-    'properties': {
-        'asset_class': {'type': 'text'},
-        'counterparty': {'type': 'text'},
-        'instrument_id': {'type': 'text'},
-        'instrument_name': {'type': 'text'},
-        'trade_date_time': {'type': 'date', 'format': 'yyyy-MM-dd HH:mm:ss'},
-        'trade_details': {
-            'properties': {
-                'buySellIndicator': {'type': 'text'},
-                'price': {'type': 'float'},
-                'quantity': {'type': 'integer'}
-            },
-            'type': 'object'
-        },
-        'trade_id': {'type': 'text'},
-        'trader': {'type': 'text'}
-        }
-    } -->
-
-    [
-
-                        # {"match": {
-                        #     "trade_details.buySellIndicator": tradeType.name if tradeType else None
-                        # }}
-                        # {"range": {"trade_date_time": {
-                        #     "gte": start if start else "", "lte": end if end else dt.datetime.now()}}},
-                    ]
