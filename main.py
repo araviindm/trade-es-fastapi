@@ -1,6 +1,7 @@
 from typing import Optional
 from fastapi import APIRouter, FastAPI, HTTPException
-from database import (prepare_trades_index, fetch_trades, fetch_trade_by_id)
+from database import (prepare_trades_index, fetch_trades,
+                      fetch_trade_by_id, search_db_trades)
 app = FastAPI()
 
 
@@ -33,6 +34,15 @@ def create_trades_index():
 @routes.get("/trade")
 def get_trade_by_id(id: str):
     response = fetch_trade_by_id(id)
+    if response:
+        return response
+    raise HTTPException(404, "Something went wrong")
+
+
+@routes.get("/trades/search")
+def search_trades(search: str):
+    print(search)
+    response = search_db_trades(search)
     if response:
         return response
     raise HTTPException(404, "Something went wrong")

@@ -54,7 +54,7 @@ def fetch_trades(limit: int):
 def fetch_trade_by_id(id: str):
     """To fetch a single trade by trade_id or by the default elastic _id(which is commented)"""
     try:
-        full_resp = es.search(index="efef", size=1, body={
+        full_resp = es.search(index="trades", size=1, body={
             "query": {"match": {"trade_id": id}}})
         resp = full_resp['hits']['hits'][0]
         # resp = es.get(index="trades", id=id)
@@ -62,3 +62,14 @@ def fetch_trade_by_id(id: str):
         raise HTTPException(e.args[0],
                             detail=e.args[1])
     return resp
+
+
+def search_db_trades(search: str):
+    """To fetch a single trade by trade_id or by the default elastic _id(which is commented)"""
+    try:
+        resp = es.search(index="trades", body={
+            "query": {"multi_match": {"query": search, "fields": ["counterparty", "instrument_id", "instrument_name", "trader"]}}})
+    except Exception as e:
+        raise HTTPException(e.args[0],
+                            detail=e.args[1])
+    return resp['hits']['hits']
