@@ -2,3 +2,4 @@ fastapi
 uvicorn[standard]
 elasticsearch
 python-dotenv
+es_odm

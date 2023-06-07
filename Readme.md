@@ -29,3 +29,12 @@ uvicorn main:app --reload
         'trader': {'type': 'text'}
         }
     } -->
+
+    [
+
+                        # {"match": {
+                        #     "trade_details.buySellIndicator": tradeType.name if tradeType else None
+                        # }}
+                        # {"range": {"trade_date_time": {
+                        #     "gte": start if start else "", "lte": end if end else dt.datetime.now()}}},
+                    ]

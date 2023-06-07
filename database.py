@@ -19,27 +19,11 @@ else:
 
 def prepare_trades_index():
     """To create the Index, add mappings and add data from the trades.json file"""
-    mapping = {
-        'properties': {
-            'asset_class': {'type': 'text'},
-            'counterparty': {'type': 'text'},
-            'instrument_id': {'type': 'text'},
-            'instrument_name': {'type': 'text'},
-            'trade_date_time': {'type': 'date'},
-            'trade_details': {
-                'properties': {
-                    'buySellIndicator': {'type': 'keyword'},
-                    'price': {'type': 'float'},
-                    'quantity': {'type': 'integer'}
-                },
-                'type': 'object'
-            },
-            'trade_id': {'type': 'text'},
-            'trader': {'type': 'text'}
-        }}
+    trade_cls = Trade
+    trade_mapping = trade_cls._index.to_dict()
     try:
         es.indices.create(
-            index="trades", mappings=mapping)
+            index="trades", mappings=trade_mapping['mappings'])
     except Exception as e:
         raise HTTPException(e.args[0],
                             detail=e.args[1])
@@ -61,25 +45,47 @@ def prepare_trades_index():
 def fetch_trades(limit: Optional[int], assetClass: Optional[str], minPrice: Optional[int],
                  maxPrice: Optional[int], start: Optional[dt.datetime], end: Optional[dt.datetime], tradeType: Optional[BuySellIndicator]):
     """To fetch a list of trades"""
-    if tradeType:
-        print(tradeType.name)
     try:
+        """Splitting the queries to use based on the optional parameters"""
+        queries = [
+            {
+                "range": {
+                    "trade_details.price": {
+                        "gte": minPrice, "lte": maxPrice
+                    }
+                }
+            },
+            {
+                "prefix": {
+                    "asset_class": {
+                        "value": assetClass if assetClass else ""
+                    }
+                }
+            }
+        ]
+        if tradeType:
+            queries.append({
+                "match": {
+                    "trade_details.buySellIndicator": tradeType.name
+                }
+            })
+        if start:
+            queries.append({
+                "range": {
+                    "trade_date_time": {"gte": start}
+                }
+            })
+        if end:
+            queries.append({
+                "range": {
+                    "trade_date_time": {"lte": end}
+                }
+            })
+        """Search query"""
         resp = es.search(index="trades", size=limit, body={
             "query": {
                 "bool": {
-                    "must": [
-                        {"range": {"trade_details.price": {
-                            "gte": minPrice, "lte": maxPrice}}},
-
-                        {"prefix": {"asset_class": {
-                            "value": assetClass if assetClass else ""
-                        }}},
-                        # {"match": {
-                        #     "trade_details.buySellIndicator": tradeType.name if tradeType else None
-                        # }}
-                        # {"range": {"trade_date_time": {
-                        #     "gte": start if start else "", "lte": end if end else dt.datetime.now()}}},
-                    ],
+                    "must": queries,
                 }
             }})
     except Exception as e:
