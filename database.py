@@ -82,12 +82,17 @@ def fetch_trades(limit: Optional[int], assetClass: Optional[str], minPrice: Opti
                 }
             })
         """Search query"""
-        resp = es.search(index="trades", size=limit, body={
-            "query": {
-                "bool": {
-                    "must": queries,
-                }
-            }})
+        resp = es.search(index="trades",
+                         body={
+                             "from": 0,
+                             "size": limit,
+                             "query": {
+                                 "bool": {
+                                     "must": queries,
+                                 }
+                             },
+                             "sort": [{"trade_date_time": {"order": "desc"}}]
+                         })
     except Exception as e:
         raise HTTPException(e.args[0],
                             detail=e.args[1])
