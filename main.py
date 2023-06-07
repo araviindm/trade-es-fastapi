@@ -1,7 +1,9 @@
+import datetime as dt
 from typing import Optional
 from fastapi import APIRouter, FastAPI, HTTPException
 from database import (prepare_trades_index, fetch_trades,
                       fetch_trade_by_id, search_db_trades)
+from model import BuySellIndicator
 app = FastAPI()
 
 
@@ -16,8 +18,16 @@ routes = APIRouter(
 
 
 @routes.get("/trades")
-def get_trades(limit: Optional[int] | None = None):
-    response = fetch_trades(limit)
+def get_trades(
+        limit: Optional[int] | None = None,
+        assetClass: Optional[str] | None = None,
+        minPrice: Optional[int] | None = None,
+        maxPrice: Optional[int] | None = None,
+        start: Optional[dt.datetime] | None = None,
+        end: Optional[dt.datetime] | None = None,
+        tradeType: Optional[BuySellIndicator] | None = None):
+    response = fetch_trades(limit, assetClass, minPrice,
+                            maxPrice, start, end, tradeType)
     if response:
         return response
     raise HTTPException(404, "Something went wrong")

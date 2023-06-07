@@ -1,12 +1,18 @@
 import datetime as dt
+from enum import Enum
 
 from typing import Optional
 import typing
 from es_odm import InnerESModel, ESModel, Field, ObjectField
 
 
+class BuySellIndicator(Enum):
+    BUY = "BUY"
+    SELL = "SELL"
+
+
 class TradeDetails(InnerESModel):
-    buySellIndicator: str = Field(
+    buySellIndicator: BuySellIndicator = Field(
         description="A value of BUY for buys, SELL for sells.")
 
     price: float = Field(description="The price of the Trade.")

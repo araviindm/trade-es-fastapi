@@ -3,7 +3,7 @@
     "trade_id": "97a726b6-6ee7-3d93-8165-de27d26e4dc8",
     "trader": "Treva Koepp",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
+      "buySellIndicator": "BUY",
       "price": 390203.0976,
       "quantity": 5
     },
@@ -17,9 +17,9 @@
     "trade_id": "e533403b-5d72-357f-a1e5-408e80881a46",
     "trader": "Ms. Mariana Kilback PhD",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 15.32802763,
+      "quantity": 8
     },
     "trade_date_time": "1984-01-24T16:59:48",
     "instrument_id": "jast.willis",
@@ -31,9 +31,9 @@
     "trade_id": "c657bc7f-61f8-3212-a79a-0e4f97990276",
     "trader": "Pauline Hane",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 372040859.2550275,
+      "quantity": 1
     },
     "trade_date_time": "2000-12-28T22:37:50",
     "instrument_id": "walker.michael",
@@ -45,9 +45,9 @@
     "trade_id": "0f90ed7a-cb59-3bdb-9063-e14518ab5317",
     "trader": "Gideon Paucek Sr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 21224863.03736023,
+      "quantity": 9
     },
     "trade_date_time": "2017-10-04T00:25:52",
     "instrument_id": "oswaldo33",
@@ -59,9 +59,9 @@
     "trade_id": "4ec1d4a9-7908-3006-b6fb-999307aa4a25",
     "trader": "Darwin Wolff",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 1514.0351064,
+      "quantity": 3
     },
     "trade_date_time": "1996-02-29T02:44:29",
     "instrument_id": "cschoen",
@@ -73,9 +73,9 @@
     "trade_id": "5cb94117-0b57-3982-9868-e688897e2d28",
     "trader": "Kip Conn MD",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 61010259.65741305,
+      "quantity": 2
     },
     "trade_date_time": "1987-12-02T10:19:13",
     "instrument_id": "powlowski.cody",
@@ -87,9 +87,9 @@
     "trade_id": "61d8b9c3-217b-3be4-8aa6-a0f61525d635",
     "trader": "Jorge Terry",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 52.562691,
+      "quantity": 0
     },
     "trade_date_time": "1980-08-14T18:09:41",
     "instrument_id": "labadie.shayna",
@@ -101,9 +101,9 @@
     "trade_id": "2b00feff-b2a8-3ba3-a52c-69d3c2c9f425",
     "trader": "Dante Dare PhD",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 6137155.14832411,
+      "quantity": 0
     },
     "trade_date_time": "2012-03-05T01:23:28",
     "instrument_id": "maggio.kara",
@@ -115,9 +115,10 @@
     "trade_id": "8bc8e906-de77-3f1e-bdfe-7465dcd100b4",
     "trader": "Dovie Pacocha",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+
+      "price": 0,
+      "quantity": 9
     },
     "trade_date_time": "2011-11-15T03:41:05",
     "instrument_id": "hbayer",
@@ -129,9 +130,9 @@
     "trade_id": "1a0b9c43-50f4-347c-918d-2fbece3d4833",
     "trader": "Liliana Green",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 639.182704,
+      "quantity": 0
     },
     "trade_date_time": "1983-05-05T17:56:39",
     "instrument_id": "seamus.weimann",
@@ -143,9 +144,9 @@
     "trade_id": "cc8964c9-7a8f-3e62-bc6c-a56c0a497728",
     "trader": "Dedrick Leannon",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 3019969.69726,
+      "quantity": 8
     },
     "trade_date_time": "2010-05-21T08:22:01",
     "instrument_id": "gerlach.maeve",
@@ -157,9 +158,9 @@
     "trade_id": "001ac06a-bdb4-37d5-9e19-d4911c398f2a",
     "trader": "Zelda Gorczany",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 34.3,
+      "quantity": 1
     },
     "trade_date_time": "1983-06-06T08:37:09",
     "instrument_id": "fkrajcik",
@@ -171,9 +172,9 @@
     "trade_id": "5d0230e6-8161-3ca2-b535-7a38a22313af",
     "trader": "Michale Huels",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 179613.59,
+      "quantity": 0
     },
     "trade_date_time": "1973-10-24T03:10:31",
     "instrument_id": "arlo.tillman",
@@ -185,9 +186,9 @@
     "trade_id": "13c9a0d3-8e00-38c8-afae-d6defba253d8",
     "trader": "Garnet Hansen",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 17632.9606123,
+      "quantity": 0
     },
     "trade_date_time": "1972-10-29T22:10:28",
     "instrument_id": "moses.volkman",
@@ -199,9 +200,9 @@
     "trade_id": "d0bd3b5a-2968-3b1b-8790-09e1206536a2",
     "trader": "Brandon Schamberger",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 204517.88,
+      "quantity": 7
     },
     "trade_date_time": "2023-01-01T01:55:19",
     "instrument_id": "tremblay.haley",
@@ -213,9 +214,9 @@
     "trade_id": "297f2f92-df61-389f-a0c4-a8ee0d67de70",
     "trader": "Prof. Rosella Senger Sr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 0.657881636,
+      "quantity": 1
     },
     "trade_date_time": "1990-08-25T05:15:25",
     "instrument_id": "jaleel52",
@@ -227,9 +228,9 @@
     "trade_id": "26713c9d-b642-3c17-a9ca-2a9e5045a0e2",
     "trader": "Mr. Broderick Friesen I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 2450309.82,
+      "quantity": 7
     },
     "trade_date_time": "2022-05-12T14:39:08",
     "instrument_id": "leuschke.freeman",
@@ -241,9 +242,9 @@
     "trade_id": "76dee882-4ea0-30d4-b2e5-48aaf70e169c",
     "trader": "Scottie Yost V",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 0.174529,
+      "quantity": 2
     },
     "trade_date_time": "2018-08-12T18:09:03",
     "instrument_id": "schultz.isac",
@@ -255,9 +256,9 @@
     "trade_id": "0097aff8-38d1-3c06-bcc7-fc9b8f905771",
     "trader": "Mr. Dewayne Yost",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 43177766.22419,
+      "quantity": 3
     },
     "trade_date_time": "1980-08-11T13:06:36",
     "instrument_id": "barbara05",
@@ -269,9 +270,9 @@
     "trade_id": "9b478da9-f2a3-3e62-91ea-6bf25adbe37b",
     "trader": "Simone White III",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 11383686,
+      "quantity": 0
     },
     "trade_date_time": "1984-01-08T11:06:56",
     "instrument_id": "paolo.reichert",
@@ -283,9 +284,9 @@
     "trade_id": "68021464-21d5-3c43-9d47-196996d69163",
     "trader": "Ophelia Schroeder",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 45898.669559322,
+      "quantity": 6
     },
     "trade_date_time": "2014-09-26T18:53:14",
     "instrument_id": "slittle",
@@ -297,9 +298,9 @@
     "trade_id": "a038c7ba-0728-309e-9a67-84618e0c8675",
     "trader": "Mr. Emery Klein",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 2.13,
+      "quantity": 7
     },
     "trade_date_time": "1970-03-18T04:42:20",
     "instrument_id": "bonita20",
@@ -311,9 +312,9 @@
     "trade_id": "938c91f6-daf8-3b13-a66f-de2d0f24fcad",
     "trader": "Sim Stokes DVM",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 34098.5,
+      "quantity": 7
     },
     "trade_date_time": "1996-08-12T02:42:31",
     "instrument_id": "hayden07",
@@ -325,9 +326,9 @@
     "trade_id": "f7818865-e493-3c19-868f-260d50a7d8a1",
     "trader": "Talon O'Keefe I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 15.721088,
+      "quantity": 0
     },
     "trade_date_time": "1984-05-11T10:11:54",
     "instrument_id": "novella.hoppe",
@@ -339,9 +340,9 @@
     "trade_id": "c07c4abc-65fb-33b9-a097-ef774ce9a438",
     "trader": "Abraham Cruickshank",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 272261.1666278,
+      "quantity": 1
     },
     "trade_date_time": "2002-04-03T18:03:53",
     "instrument_id": "minnie.oconner",
@@ -353,9 +354,9 @@
     "trade_id": "e764f4de-9b03-32f5-8e25-b0ddc1add458",
     "trader": "Estefania McCullough",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 4208.772,
+      "quantity": 2
     },
     "trade_date_time": "1998-02-12T08:52:18",
     "instrument_id": "baylee88",
@@ -367,9 +368,9 @@
     "trade_id": "5ed12e14-d685-33a5-92a3-1c53d1b59794",
     "trader": "Eldora Hill",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 2528356.2199307387,
+      "quantity": 3
     },
     "trade_date_time": "2007-05-01T03:43:31",
     "instrument_id": "margarette.rohan",
@@ -381,9 +382,9 @@
     "trade_id": "629c1542-ef97-3ad2-ac97-bf6dcd7218e3",
     "trader": "Myra Homenick V",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 61155229.76522715,
+      "quantity": 2
     },
     "trade_date_time": "1993-09-23T10:43:05",
     "instrument_id": "nellie93",
@@ -395,9 +396,9 @@
     "trade_id": "9377ff24-9bb9-3368-b242-bee8f048c14c",
     "trader": "Mrs. Hollie Robel DDS",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 136.3035,
+      "quantity": 7
     },
     "trade_date_time": "2008-08-05T14:54:58",
     "instrument_id": "kip09",
@@ -409,9 +410,9 @@
     "trade_id": "f420e6a0-09d3-3510-a817-065ba1495aec",
     "trader": "Prof. Emelia Koss IV",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 0.7505086,
+      "quantity": 7
     },
     "trade_date_time": "2005-11-07T08:02:36",
     "instrument_id": "jacynthe.miller",
@@ -423,9 +424,9 @@
     "trade_id": "480a0c60-be98-3311-a79c-5cfa41133bf9",
     "trader": "Jordon Rath",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 100459823.81,
+      "quantity": 3
     },
     "trade_date_time": "1995-04-21T06:06:17",
     "instrument_id": "gbailey",
@@ -437,9 +438,9 @@
     "trade_id": "0cd4b635-ae83-30ad-b812-31a1a2d4e543",
     "trader": "Prof. Kurtis Barton I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 480.1725945,
+      "quantity": 4
     },
     "trade_date_time": "1971-05-17T15:48:28",
     "instrument_id": "ndooley",
@@ -451,8 +452,8 @@
     "trade_id": "858cdd4a-4f3a-358a-b135-ea5776bf37c1",
     "trader": "Brittany Wyman",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "BUY",
+      "price": 1197.0553478,
       "quantity": 5
     },
     "trade_date_time": "2013-10-01T23:18:19",
@@ -465,9 +466,9 @@
     "trade_id": "99477895-e8a3-3841-8742-fd440e784994",
     "trader": "Miss Else Mayer II",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 1441.741162,
+      "quantity": 0
     },
     "trade_date_time": "1982-12-04T04:16:26",
     "instrument_id": "jace.rau",
@@ -479,9 +480,9 @@
     "trade_id": "d947c801-8f97-38c7-b02b-b865e8ea4d96",
     "trader": "Stanford Runolfsson",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 578.71933863,
+      "quantity": 2
     },
     "trade_date_time": "1978-04-21T02:13:01",
     "instrument_id": "brody42",
@@ -493,9 +494,9 @@
     "trade_id": "51787bb7-b413-3b12-aa93-54e7e0056e9b",
     "trader": "Cleve Green",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 2.00398,
+      "quantity": 9
     },
     "trade_date_time": "1975-12-17T09:21:00",
     "instrument_id": "smitham.emerald",
@@ -507,9 +508,9 @@
     "trade_id": "c6db81ac-2bde-3e06-8479-5ecbb58ea617",
     "trader": "Sarina Kuphal",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 3.7307207,
+      "quantity": 7
     },
     "trade_date_time": "2022-05-05T23:34:15",
     "instrument_id": "jeremie.baumbach",
@@ -521,9 +522,9 @@
     "trade_id": "e12ecb67-9680-3f02-9a4b-9d8138e78f8c",
     "trader": "Mr. Doris Connelly DVM",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 50.655,
+      "quantity": 3
     },
     "trade_date_time": "2004-08-02T12:45:16",
     "instrument_id": "hill.darwin",
@@ -535,9 +536,9 @@
     "trade_id": "bb62d960-e94e-3ec9-81d6-e0c918f1f3e8",
     "trader": "Junius Robel",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 908.2011,
+      "quantity": 9
     },
     "trade_date_time": "2001-03-10T08:31:55",
     "instrument_id": "greenfelder.chadd",
@@ -549,9 +550,9 @@
     "trade_id": "b99c9474-15f1-3604-a66a-0dd0d4234094",
     "trader": "Grant Daugherty",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 38.25964223,
+      "quantity": 1
     },
     "trade_date_time": "2021-09-24T07:12:59",
     "instrument_id": "willard81",
@@ -563,9 +564,9 @@
     "trade_id": "c2b2a3c2-d05d-3505-8bee-d537c1a00438",
     "trader": "Prof. Hugh Pacocha",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 217735693.0463652,
+      "quantity": 7
     },
     "trade_date_time": "2017-06-17T02:35:20",
     "instrument_id": "rae76",
@@ -577,9 +578,9 @@
     "trade_id": "23d35649-fe5e-3955-8dc0-97757b67d51a",
     "trader": "Davion Macejkovic",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 1.07079,
+      "quantity": 0
     },
     "trade_date_time": "2022-03-06T23:09:31",
     "instrument_id": "jbraun",
@@ -591,9 +592,9 @@
     "trade_id": "1eb3375d-f11f-33c7-9a36-22bba687baa3",
     "trader": "Jeremy Wunsch",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 685699965.2303675,
+      "quantity": 7
     },
     "trade_date_time": "1983-06-23T02:25:10",
     "instrument_id": "louisa52",
@@ -605,9 +606,9 @@
     "trade_id": "02e30deb-0a64-34f0-9255-6bb7e4b3ddec",
     "trader": "Margarita Mraz",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 5071750.52,
+      "quantity": 7
     },
     "trade_date_time": "1977-03-15T22:49:11",
     "instrument_id": "thaddeus.predovic",
@@ -619,9 +620,9 @@
     "trade_id": "c61d0d72-5667-3a5f-bdf5-0aa51b652a40",
     "trader": "Mr. Saige Koepp",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 132.261579013,
+      "quantity": 2
     },
     "trade_date_time": "1971-12-26T18:01:21",
     "instrument_id": "roma.wunsch",
@@ -633,8 +634,8 @@
     "trade_id": "a44808ab-a01b-32cf-93cb-159624c805fe",
     "trader": "Estell Lueilwitz",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "BUY",
+      "price": 39043.248,
       "quantity": 5
     },
     "trade_date_time": "2021-05-07T16:16:54",
@@ -647,9 +648,9 @@
     "trade_id": "fe8ae598-450b-34f1-9edf-e2e063bb84f8",
     "trader": "Shirley Vandervort",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 163067645.3371,
+      "quantity": 3
     },
     "trade_date_time": "1983-07-26T12:02:10",
     "instrument_id": "lakin.albert",
@@ -661,9 +662,9 @@
     "trade_id": "5d6640a4-79bf-3324-8c43-96bc5137c4b5",
     "trader": "Jon Towne",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 3.5259027,
+      "quantity": 0
     },
     "trade_date_time": "1984-07-29T04:20:22",
     "instrument_id": "fgibson",
@@ -675,8 +676,8 @@
     "trade_id": "f6313921-aab8-3678-a14b-a00342f18bc5",
     "trader": "Myles Roberts",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "BUY",
+      "price": 3.2422414,
       "quantity": 5
     },
     "trade_date_time": "2010-03-13T09:36:18",
@@ -689,9 +690,9 @@
     "trade_id": "6bbe8a4e-ad6d-3c1d-9a30-bd0b2f6228eb",
     "trader": "Lucie Leannon",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 845.73,
+      "quantity": 7
     },
     "trade_date_time": "1986-11-17T16:03:28",
     "instrument_id": "rosie08",
@@ -703,8 +704,8 @@
     "trade_id": "682b353a-a65a-3f9e-882c-1838e6a9d098",
     "trader": "Matt Hermann IV",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "SELL",
+      "price": 390.72,
       "quantity": 5
     },
     "trade_date_time": "2010-03-31T22:53:53",
@@ -717,9 +718,9 @@
     "trade_id": "4ab66a4f-339e-35c1-a209-27d2506b774e",
     "trader": "Gladyce Goyette Jr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 48165.5,
+      "quantity": 1
     },
     "trade_date_time": "2023-03-01T02:22:18",
     "instrument_id": "welch.jesse",
@@ -731,9 +732,9 @@
     "trade_id": "0f29f292-24b0-3aa4-865e-b71efbd19629",
     "trader": "Itzel Stokes",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 3376.5,
+      "quantity": 6
     },
     "trade_date_time": "1989-11-13T22:43:32",
     "instrument_id": "spencer.charley",
@@ -745,9 +746,9 @@
     "trade_id": "a071d9cf-fe39-3483-b56c-fa5ed8ef1a58",
     "trader": "Sandrine Bradtke III",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 6406.3299,
+      "quantity": 0
     },
     "trade_date_time": "2004-12-14T08:25:59",
     "instrument_id": "dedrick.hegmann",
@@ -759,9 +760,9 @@
     "trade_id": "b23b6990-dda6-336a-b80e-1f48efb54dfa",
     "trader": "Dr. Enos Schimmel",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 2690924,
+      "quantity": 6
     },
     "trade_date_time": "2004-07-19T04:50:27",
     "instrument_id": "croob",
@@ -773,9 +774,9 @@
     "trade_id": "c9bff1f9-3c96-3dac-952e-cc9ef2b56c8d",
     "trader": "Andre Ledner DDS",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 33.6576,
+      "quantity": 8
     },
     "trade_date_time": "1973-03-28T14:19:33",
     "instrument_id": "darlene.funk",
@@ -787,9 +788,9 @@
     "trade_id": "9b30a4b2-ea70-3f2b-bda4-727336e2ad8f",
     "trader": "Henderson Halvorson Jr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 560.645154,
+      "quantity": 3
     },
     "trade_date_time": "2021-02-28T12:21:57",
     "instrument_id": "mraz.felipe",
@@ -801,9 +802,9 @@
     "trade_id": "49d00d54-57c6-3b63-9049-06c915de433b",
     "trader": "Mr. Zachery Homenick I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 153.8369287,
+      "quantity": 1
     },
     "trade_date_time": "1973-10-26T04:33:49",
     "instrument_id": "sbayer",
@@ -815,9 +816,9 @@
     "trade_id": "bacf6fe6-ccca-3e07-b0dc-f9645e7d7c7c",
     "trader": "Jamil Zemlak",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 100837334.6,
+      "quantity": 2
     },
     "trade_date_time": "1988-07-31T15:45:37",
     "instrument_id": "horacio.hegmann",
@@ -829,9 +830,9 @@
     "trade_id": "4a48395d-8da9-3035-8094-1e8aee06b051",
     "trader": "Chaz Deckow",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 520.328,
+      "quantity": 9
     },
     "trade_date_time": "1980-06-24T01:30:47",
     "instrument_id": "yundt.marianne",
@@ -843,8 +844,8 @@
     "trade_id": "79833dcb-b8ec-3a65-9b65-0af629fab1cf",
     "trader": "Jermain Rogahn",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "SELL",
+      "price": 6764.537521348,
       "quantity": 5
     },
     "trade_date_time": "2020-02-25T22:39:00",
@@ -857,9 +858,9 @@
     "trade_id": "65ee9545-355c-30f3-84e5-9b14fccbf1f1",
     "trader": "Darrel Kling",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 4.59,
+      "quantity": 4
     },
     "trade_date_time": "2019-01-04T22:57:31",
     "instrument_id": "mara.lynch",
@@ -871,9 +872,9 @@
     "trade_id": "6ed09bbe-2fc3-3cd8-9e26-91d534f74c74",
     "trader": "Lavada Tromp",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 66352.51729,
+      "quantity": 8
     },
     "trade_date_time": "2008-02-20T10:05:35",
     "instrument_id": "yvonne62",
@@ -885,9 +886,9 @@
     "trade_id": "b8778e6e-94ad-3d59-8326-626df66f1fd1",
     "trader": "Ollie Wiza",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 2558398.9,
+      "quantity": 0
     },
     "trade_date_time": "2008-08-29T01:44:11",
     "instrument_id": "pgoyette",
@@ -899,9 +900,9 @@
     "trade_id": "ddbdffa0-11a1-39a3-90a0-9ee2074f6805",
     "trader": "Kacie Bogisich",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 13,
+      "quantity": 3
     },
     "trade_date_time": "2012-01-21T16:59:00",
     "instrument_id": "wilbert.beahan",
@@ -913,9 +914,9 @@
     "trade_id": "075eddf2-82be-353b-aa8a-751fc22d59a9",
     "trader": "Felipa Sporer",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 10.6995,
+      "quantity": 0
     },
     "trade_date_time": "2015-12-14T09:22:53",
     "instrument_id": "khodkiewicz",
@@ -927,9 +928,9 @@
     "trade_id": "e7f4f0e4-9312-3351-b583-970c40b10a6b",
     "trader": "Miss Sophia Turner",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "SELL",
+      "price": 27.44,
+      "quantity": 0
     },
     "trade_date_time": "1975-05-05T12:42:17",
     "instrument_id": "garett.goldner",
@@ -941,9 +942,9 @@
     "trade_id": "58039c49-310d-30fd-9a76-bf92f28a4892",
     "trader": "Destini Stehr",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 70870181.819,
+      "quantity": 0
     },
     "trade_date_time": "1974-06-25T05:11:30",
     "instrument_id": "gusikowski.stacey",
@@ -955,9 +956,9 @@
     "trade_id": "53625fb4-dd57-3e3e-bbf9-7142fe5d1dc4",
     "trader": "Shanna Konopelski",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 60892961.011,
+      "quantity": 7
     },
     "trade_date_time": "1991-08-24T14:29:37",
     "instrument_id": "reilly.hilbert",
@@ -969,9 +970,9 @@
     "trade_id": "ab980d90-3967-3cc0-b100-34c536a44fd7",
     "trader": "Mr. Lawrence Wiegand V",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 44832.49,
+      "quantity": 7
     },
     "trade_date_time": "1976-09-19T14:56:33",
     "instrument_id": "miller.shanahan",
@@ -983,9 +984,9 @@
     "trade_id": "49329e02-4754-3522-9885-c315a0a3724d",
     "trader": "Prof. Iva Lueilwitz I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 61.5,
+      "quantity": 7
     },
     "trade_date_time": "2019-08-30T21:38:43",
     "instrument_id": "isobel.skiles",
@@ -997,9 +998,9 @@
     "trade_id": "1e2cb77c-02d2-3c4f-9b73-34e1751aac5b",
     "trader": "Gabrielle Jerde Sr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 445.426334368,
+      "quantity": 2
     },
     "trade_date_time": "1999-05-16T02:16:21",
     "instrument_id": "tyrell.wisoky",
@@ -1011,9 +1012,9 @@
     "trade_id": "67429f6b-837a-3bc9-9b87-ebefbc6673ce",
     "trader": "Rosetta Reynolds",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 9030895.045,
+      "quantity": 3
     },
     "trade_date_time": "2022-07-26T23:43:36",
     "instrument_id": "marilie04",
@@ -1025,9 +1026,9 @@
     "trade_id": "348ccc79-5100-3bae-87fe-2e91180cf20a",
     "trader": "Aurore Hane",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 21174655.56637899,
+      "quantity": 8
     },
     "trade_date_time": "2012-12-26T19:22:26",
     "instrument_id": "luettgen.lloyd",
@@ -1039,9 +1040,9 @@
     "trade_id": "75da39f1-c70a-3ae5-85d0-d61dc0426fc3",
     "trader": "Cortney Mayert",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 11.58922,
+      "quantity": 7
     },
     "trade_date_time": "1995-06-03T13:50:40",
     "instrument_id": "yhomenick",
@@ -1053,9 +1054,9 @@
     "trade_id": "82095a05-a5b6-3941-9cfe-523b102a0b44",
     "trader": "Jannie Herzog",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 13738396.0292891,
+      "quantity": 7
     },
     "trade_date_time": "1986-10-02T17:27:08",
     "instrument_id": "swift.pablo",
@@ -1067,9 +1068,9 @@
     "trade_id": "5bbc457a-c554-3cff-a3da-47f89bccf118",
     "trader": "Darren Zulauf IV",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 38044098.37,
+      "quantity": 9
     },
     "trade_date_time": "2015-07-26T23:29:26",
     "instrument_id": "yernser",
@@ -1081,9 +1082,9 @@
     "trade_id": "1e020e3f-ff06-3b51-a9b9-7953e8dca451",
     "trader": "Bettie Collins",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 42.9007271,
+      "quantity": 2
     },
     "trade_date_time": "1993-11-04T02:46:17",
     "instrument_id": "lexi14",
@@ -1095,9 +1096,9 @@
     "trade_id": "98edd512-0a77-3634-a6c2-f058ac6e2017",
     "trader": "Dr. Will Kub",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 12927.648167,
+      "quantity": 1
     },
     "trade_date_time": "2022-10-13T17:24:16",
     "instrument_id": "beahan.jefferey",
@@ -1109,9 +1110,9 @@
     "trade_id": "1af3e820-2c37-3bce-a758-30e0eaf305cf",
     "trader": "Katelynn Howell",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 3169,
+      "quantity": 3
     },
     "trade_date_time": "1986-12-10T07:16:46",
     "instrument_id": "allene78",
@@ -1123,8 +1124,8 @@
     "trade_id": "74cf841a-0a61-361b-ad85-489b1c6874c3",
     "trader": "Mr. Tremayne Raynor",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "BUY",
+      "price": 595930.0725,
       "quantity": 5
     },
     "trade_date_time": "2006-07-10T13:42:05",
@@ -1137,9 +1138,9 @@
     "trade_id": "c24720d6-66cb-30a4-b987-1914a7625836",
     "trader": "Kareem Rice IV",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 921938.29516,
+      "quantity": 7
     },
     "trade_date_time": "2009-04-27T04:14:21",
     "instrument_id": "feest.vernice",
@@ -1151,9 +1152,9 @@
     "trade_id": "973822b9-c229-3c10-917d-7513bef91b32",
     "trader": "Herbert Schneider Sr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 0.70638941,
+      "quantity": 7
     },
     "trade_date_time": "1984-07-16T18:05:00",
     "instrument_id": "tina38",
@@ -1165,9 +1166,9 @@
     "trade_id": "b731be97-2baf-39cf-94ee-9cbfda252581",
     "trader": "Alexis Predovic I",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 0.9977799,
+      "quantity": 4
     },
     "trade_date_time": "2007-05-20T04:45:37",
     "instrument_id": "ccronin",
@@ -1179,9 +1180,9 @@
     "trade_id": "39f758f8-8df5-323a-90cc-10fe54e4882a",
     "trader": "Annette Williamson",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 2400377.067,
+      "quantity": 8
     },
     "trade_date_time": "1996-09-14T02:47:07",
     "instrument_id": "roosevelt.barrows",
@@ -1193,9 +1194,9 @@
     "trade_id": "2693d913-2ee8-3488-84f6-aa8cd16ed904",
     "trader": "Jamil Eichmann II",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 7299868.167741,
+      "quantity": 1
     },
     "trade_date_time": "1983-09-04T04:37:29",
     "instrument_id": "lsatterfield",
@@ -1207,9 +1208,9 @@
     "trade_id": "f5093089-2e03-3074-969f-f557404245b8",
     "trader": "Kale Romaguera",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 42469.024,
+      "quantity": 8
     },
     "trade_date_time": "1986-03-27T03:23:55",
     "instrument_id": "freddie.buckridge",
@@ -1221,9 +1222,9 @@
     "trade_id": "b5ea023e-0e66-38fd-9ba7-7bf3411d3f18",
     "trader": "Miss Kasey Bayer",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 5.278,
+      "quantity": 7
     },
     "trade_date_time": "1999-07-14T12:42:30",
     "instrument_id": "xstokes",
@@ -1235,9 +1236,9 @@
     "trade_id": "eb5f4e99-535f-30db-9b62-6d3871dc2fff",
     "trader": "Douglas Lind",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 65580.1,
+      "quantity": 0
     },
     "trade_date_time": "2005-06-12T10:44:14",
     "instrument_id": "kschmeler",
@@ -1249,9 +1250,9 @@
     "trade_id": "614113cb-f2f2-3662-88a6-cc557fef3323",
     "trader": "Vance Osinski",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 27510.2878,
+      "quantity": 0
     },
     "trade_date_time": "1976-11-03T02:03:20",
     "instrument_id": "zula.ryan",
@@ -1263,9 +1264,9 @@
     "trade_id": "d74ef0b6-0e8c-3778-a285-d691099d31b7",
     "trader": "Miss Mona Kris",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 268944671.27,
+      "quantity": 4
     },
     "trade_date_time": "2019-08-20T23:00:53",
     "instrument_id": "mswaniawski",
@@ -1277,9 +1278,9 @@
     "trade_id": "2fe1c642-6ca5-347a-b151-180370e64556",
     "trader": "Gloria Sawayn",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 1.569091,
+      "quantity": 0
     },
     "trade_date_time": "2019-07-03T05:49:17",
     "instrument_id": "wilton49",
@@ -1291,9 +1292,9 @@
     "trade_id": "993dc4bc-0bc6-356b-967c-4d9a2ed53865",
     "trader": "Leonel Emard",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 9.78039998,
+      "quantity": 0
     },
     "trade_date_time": "2014-08-02T13:09:26",
     "instrument_id": "destini.kshlerin",
@@ -1305,9 +1306,9 @@
     "trade_id": "d93a3006-8dc8-35cc-9dc4-e197ecfb5acc",
     "trader": "Roselyn Conroy Sr.",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 3.0728,
+      "quantity": 9
     },
     "trade_date_time": "2002-01-04T10:30:38",
     "instrument_id": "ashley05",
@@ -1319,8 +1320,8 @@
     "trade_id": "74897c82-6656-31a0-a2c0-137bd8e523a9",
     "trader": "Santina Huels",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
+      "buySellIndicator": "BUY",
+      "price": 586.315,
       "quantity": 5
     },
     "trade_date_time": "1995-12-19T13:45:47",
@@ -1333,9 +1334,10 @@
     "trade_id": "9cfd3749-ca3b-3dce-b1d9-31fca6bd4a2a",
     "trader": "Lorna Swift",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+
+      "price": 0,
+      "quantity": 8
     },
     "trade_date_time": "2004-06-06T06:14:02",
     "instrument_id": "cmann",
@@ -1347,9 +1349,9 @@
     "trade_id": "cd523c2b-4000-3821-a51d-863fe8e02df3",
     "trader": "Jessyca Labadie",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 4238052.1699164,
+      "quantity": 9
     },
     "trade_date_time": "1987-08-10T15:15:33",
     "instrument_id": "vernon49",
@@ -1361,9 +1363,9 @@
     "trade_id": "90eed505-c12d-39dc-918d-74e67d10e661",
     "trader": "Orie Cummerata",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 51383579,
+      "quantity": 2
     },
     "trade_date_time": "1980-03-06T13:04:27",
     "instrument_id": "runolfsdottir.elijah",
@@ -1375,9 +1377,9 @@
     "trade_id": "27adf963-10b5-3d2c-8ce1-5caeb5773c9a",
     "trader": "Jana Considine",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 1769276.53850588,
+      "quantity": 9
     },
     "trade_date_time": "1983-09-23T16:03:18",
     "instrument_id": "tyra.ledner",
@@ -1389,9 +1391,9 @@
     "trade_id": "befff9da-3396-35f3-b007-b4c597267d66",
     "trader": "Luna Blick DVM",
     "trade_details": {
-      "buySellIndicator": "dignissimos",
-      "price": 390203.0976,
-      "quantity": 5
+      "buySellIndicator": "BUY",
+      "price": 66673,
+      "quantity": 1
     },
     "trade_date_time": "1999-09-30T00:43:05",
     "instrument_id": "schaden.lloyd",
