@@ -1,5 +1,9 @@
 ## Trade-ES-FastAPI store
 
+## .env file
+
+ELASTICSEARCH_URI=elasticsearch_uri_to_connect
+
 ## To install dependencies
 
 python -m venv venv  
